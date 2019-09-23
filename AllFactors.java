@@ -24,6 +24,7 @@ public class AllFactors {
             System.out.println(val);
         }
 
+
         System.out.println("-----------------------");
 
        /* for (int i = 0; i < values.length; i++) {
